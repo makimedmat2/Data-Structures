@@ -1,11 +1,7 @@
 """
-This file includes three classes: unorder and ordered list,
-one class Node, which we need to create former two classes.
+This file includes three classes: UnorderedList one class Node,
+which we need to create former class.
 """
-
-import random
-import time
-
 
 class Node:  # class node, needed to create list class
 
